@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas-one {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+#canvas-two {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(90, 81, 97, 0.805);
+    
+}
